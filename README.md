@@ -1,2 +1,1 @@
-# video-host
-video-host
+media-host
